@@ -1,4 +1,4 @@
-# chatbot
+# chatbot with speech to text. This is just a fork from techieinhouse/chatbot 
 python chatterbot using flask and speech recognition from html5
 
 
